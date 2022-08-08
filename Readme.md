@@ -1,0 +1,1 @@
+Django Waste management backend
